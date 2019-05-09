@@ -148,8 +148,8 @@ a {
     color: #4709ac;
     text-decoration: underline; }
 
-a #category {
-  color: white;
+a #email {
+  color: #6f42c1;
 }
 
 a:not([href]):not([tabindex]) {
